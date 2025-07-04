@@ -55,6 +55,9 @@ Mental health is a silent struggle for many students, often hidden behind grades
 
 ---
 
+![WhatsApp Image 2025-07-04 at 19 46 22_95888442](https://github.com/user-attachments/assets/aa751c7a-0ffa-4709-b5c3-231f29600596)
+
+
 ## 🧮 SQL Concepts Used
 
 - 🔗 INNER JOIN, WHERE filters
