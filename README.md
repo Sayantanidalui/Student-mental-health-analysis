@@ -36,7 +36,7 @@ This project analyzes mental health patterns in students using only SQL. By exam
 
 1. 📉 Students with high stress have the lowest average CGPA (3.05), while those with low stress average 3.14.  
 2. 🧑‍💻 Engineering and BIT students report the highest cases of depression and anxiety.  
-3. 🕐 31 students who study <1 hr/day report high stress — a sign of disengagement.  
+3. 🕐 31 students (out of 100) who sleep <8 hr/day report high stress — a sign of burnout.  
 4. 💤 The top 5 students with the least sleep (avg 5.1 hrs) all had CGPAs between 3.50–4.00.  
 5. 🎓 1st-year students report the highest number of panic attacks (43 out of 100).  
 6. 👩‍🎓 Female students report higher average stress levels (0.70) than males (0.54).  
@@ -51,7 +51,7 @@ This project analyzes mental health patterns in students using only SQL. By exam
 
 ## 📖 Storytelling Summary
 
-Mental health is a silent struggle for many students, often hidden behind grades and routines. In this analysis, SQL became a powerful lens to uncover those invisible patterns. I discovered that stress doesn't just affect emotional well-being — it quietly pulls down academic performance. Students with less sleep and minimal social interaction showed warning signs despite their strong grades. Most panic attacks occurred in the early college years, hinting at transition stress. Even subtle habits like low physical activity or short study hours, combined with high stress, raised red flags. With just two tables and no fancy tools — only SQL — we identified real signals pointing to students who need support. This project shows how data, when handled with empathy, can drive meaningful change.
+Mental health is a silent struggle for many students, often hidden behind grades and routines. In this analysis, SQL became a powerful lens to uncover those invisible patterns. I discovered that stress doesn't just affect emotional well-being — it quietly pulls down academic performance. Students with less sleep and minimal social interaction showed warning signs despite their strong grades. Most panic attacks occurred in the early college years, hinting at transition stress. Even subtle habits like low physical activity , combined with high stress, raised red flags. With just two tables and no fancy tools — only SQL — we identified real signals pointing to students who need support. This project shows how data, when handled with empathy, can drive meaningful change.
 
 ---
 
